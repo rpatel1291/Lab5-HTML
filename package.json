@@ -1,0 +1,23 @@
+{
+  "name": "cs-546-lab-5",
+  "version": "1.0.0",
+  "description": "CS564: Lab 5 - Html Documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpatel1291/Lab5-HTML.git"
+  },
+  "author": {
+
+    "name": "Ravi Patel",
+    "cwid": "10432313"
+  },
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/rpatel1291/Lab5-HTML/issues"
+    },
+    "homepage": "https://github.com/rpatel1291/Lab5-HTML#readme"
+  }
